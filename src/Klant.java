@@ -36,6 +36,9 @@ public class Klant
         return ret;
     }
 
+    public void maakKassaTicket() {
+        System.out.println(toString());
+    }
 
     public Artikel bepaalGoedkoopste() {
         if (artikels.isEmpty()) return null;
