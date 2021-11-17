@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/github-trials.iml" filepath="$PROJECT_DIR$/github-trials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Github-Trials.iml" filepath="$PROJECT_DIR$/.idea/Github-Trials.iml" />
     </modules>
   </component>
 </project>
